@@ -1,0 +1,28 @@
+
+
+
+
+
+
+
+
+
+
+
+                               [[file:~/.emacs.d/site-lisp/emacs-splash/emacs.png]]
+                             *GNU Emacs* version 31.0
+                       =The extensible, self-documenting,=
+                           =real-time display editor.=
+
+
+
+
+
+
+
+
+
+
+
+                  =GNU Emacs comes with ABSOLUTELY NO WARRANTY=
+             =Copyright (C) 1985-2025 Free Software Foundation, Inc.=
